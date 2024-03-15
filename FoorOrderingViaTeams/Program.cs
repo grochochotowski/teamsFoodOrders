@@ -7,11 +7,12 @@ namespace FoorOrderingViaTeams
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            var configuration = new ConfigurationBuilder().AddJsonFile("appsettings.json").Build();
 
             // Add services to the container.
             builder.Services.AddRazorComponents()
                 .AddInteractiveServerComponents();
-            builder.Services.AddTeamsFx(Configurantion.GetSection("TeamsFX"));
+            builder.Services.AddTeamsFx(configuration.GetSection("TeamsFX"));
 
             var app = builder.Build();
 
