@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoorOrderingViaTeams")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b55094fc58a7aa7445cfea12ac677dd5c52203e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6eed4c11d848816421421fe6ce007a8092c3b6fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoorOrderingViaTeams")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoorOrderingViaTeams")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
