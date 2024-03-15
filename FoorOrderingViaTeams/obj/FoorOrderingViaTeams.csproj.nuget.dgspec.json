@@ -45,9 +45,25 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.10.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Fast.Components.FluentUI": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.Graph": {
+              "target": "Package",
+              "version": "[5.37.0, )"
+            },
             "Microsoft.TeamsFx": {
               "target": "Package",
-              "version": "[2.4.0, )"
+              "version": "[2.3.*, )"
             }
           },
           "imports": [

@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\nonSystem\\IT\\Code\\teamsFoodOrders\\FoorOrderingViaTeams\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4D63259-C5C1-456C-A666-2CCC67117E5D}|FoorOrderingViaTeams.csproj|c:\\nonsystem\\it\\code\\teamsfoodorders\\foororderingviateams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4D63259-C5C1-456C-A666-2CCC67117E5D}|FoorOrderingViaTeams.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4D63259-C5C1-456C-A666-2CCC67117E5D}|FoorOrderingViaTeams.csproj|c:\\nonsystem\\it\\code\\teamsfoodorders\\foororderingviateams\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A4D63259-C5C1-456C-A666-2CCC67117E5D}|FoorOrderingViaTeams.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E50D9BFC-0435-495E-A9FF-1A65D401921D}|FoorOrderingViaTeams.csproj|c:\\nonsystem\\it\\code\\teamsfoodorders\\foororderingviateams\\gettingstarted.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{E50D9BFC-0435-495E-A9FF-1A65D401921D}|FoorOrderingViaTeams.csproj|solutionrelative:gettingstarted.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\nonSystem\\IT\\Code\\teamsFoodOrders\\FoorOrderingViaTeams\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\nonSystem\\IT\\Code\\teamsFoodOrders\\FoorOrderingViaTeams\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T09:18:01.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\nonSystem\\IT\\Code\\teamsFoodOrders\\FoorOrderingViaTeams\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\nonSystem\\IT\\Code\\teamsFoodOrders\\FoorOrderingViaTeams\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-15T09:16:49.045Z",
+              "Title": "GettingStarted.md",
+              "DocumentMoniker": "C:\\nonSystem\\IT\\Code\\teamsFoodOrders\\FoorOrderingViaTeams\\GettingStarted.md",
+              "RelativeDocumentMoniker": "GettingStarted.md",
+              "ToolTip": "C:\\nonSystem\\IT\\Code\\teamsFoodOrders\\FoorOrderingViaTeams\\GettingStarted.md",
+              "RelativeToolTip": "GettingStarted.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-03-15T09:27:14.49Z",
               "EditorCaption": ""
             }
           ]
