@@ -47,23 +47,23 @@
           "dependencies": {
             "Azure.Identity": {
               "target": "Package",
-              "version": "[1.10.3, )"
+              "version": "[1.10.4, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[8.0.3, )"
             },
             "Microsoft.Fast.Components.FluentUI": {
               "target": "Package",
-              "version": "[3.2.0, )"
+              "version": "[3.6.0, )"
             },
             "Microsoft.Graph": {
               "target": "Package",
-              "version": "[5.37.0, )"
+              "version": "[5.44.0, )"
             },
             "Microsoft.TeamsFx": {
               "target": "Package",
-              "version": "[2.3.*, )"
+              "version": "[2.4.0, )"
             }
           },
           "imports": [
