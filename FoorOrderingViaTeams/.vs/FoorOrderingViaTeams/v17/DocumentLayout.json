@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{E50D9BFC-0435-495E-A9FF-1A65D401921D}|FoorOrderingViaTeams.csproj|c:\\nonsystem\\it\\code\\teamsfoodorders\\foororderingviateams\\gettingstarted.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{E50D9BFC-0435-495E-A9FF-1A65D401921D}|FoorOrderingViaTeams.csproj|solutionrelative:gettingstarted.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D9BFC-0435-495E-A9FF-1A65D401921D}|FoorOrderingViaTeams.csproj|c:\\nonsystem\\it\\code\\teamsfoodorders\\foororderingviateams\\apppackage\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E50D9BFC-0435-495E-A9FF-1A65D401921D}|FoorOrderingViaTeams.csproj|solutionrelative:apppackage\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50D9BFC-0435-495E-A9FF-1A65D401921D}|FoorOrderingViaTeams.csproj|c:\\nonsystem\\it\\code\\teamsfoodorders\\foororderingviateams\\aad.manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E50D9BFC-0435-495E-A9FF-1A65D401921D}|FoorOrderingViaTeams.csproj|solutionrelative:aad.manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 229,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "manifest.json",
+              "DocumentMoniker": "C:\\nonSystem\\IT\\Code\\teamsFoodOrders\\FoorOrderingViaTeams\\appPackage\\manifest.json",
+              "RelativeDocumentMoniker": "appPackage\\manifest.json",
+              "ToolTip": "C:\\nonSystem\\IT\\Code\\teamsFoodOrders\\FoorOrderingViaTeams\\appPackage\\manifest.json",
+              "RelativeToolTip": "appPackage\\manifest.json",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwDIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T11:30:47.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "aad.manifest.json",
+              "DocumentMoniker": "C:\\nonSystem\\IT\\Code\\teamsFoodOrders\\FoorOrderingViaTeams\\aad.manifest.json",
+              "RelativeDocumentMoniker": "aad.manifest.json",
+              "ToolTip": "C:\\nonSystem\\IT\\Code\\teamsFoodOrders\\FoorOrderingViaTeams\\aad.manifest.json",
+              "RelativeToolTip": "aad.manifest.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T10:24:49.603Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "GettingStarted.md",
               "ToolTip": "C:\\nonSystem\\IT\\Code\\teamsFoodOrders\\FoorOrderingViaTeams\\GettingStarted.md",
               "RelativeToolTip": "GettingStarted.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-03-15T09:27:14.49Z",
               "EditorCaption": ""
