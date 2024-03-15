@@ -11,6 +11,7 @@ namespace FoorOrderingViaTeams
             // Add services to the container.
             builder.Services.AddRazorComponents()
                 .AddInteractiveServerComponents();
+            builder.Services.AddTeamsFx(Configurantion.GetSection("TeamsFX"));
 
             var app = builder.Build();
 
